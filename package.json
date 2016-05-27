@@ -1,0 +1,22 @@
+{
+  "name": "plsqlparser",
+  "version": "0.0.2-alpha-2016052700",
+  "description": "A Javascript library to parse PL/SQL.",
+  "main": "bin/cli.js",
+  "bin": {
+    "plsqlparser": "cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scott-cote/plsqlparser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scott-cote/plsqlparser/issues"
+  },
+  "homepage": "https://github.com/scott-cote/plsqlparser#readme"
+}
